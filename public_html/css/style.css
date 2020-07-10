@@ -1,5 +1,5 @@
 body {
-    background: white;
+    background: rgb(156, 38, 38);
     width:1000px;
     margin-left: 200px;
 
@@ -7,9 +7,9 @@ body {
 
 #menu ul{
     padding-top: 20px;
-    width:1000px;
+    width:1000px;\
     height: 20px;
-    background-color: white;
+    background-color: rgb(156, 38, 38);
     list-style:none;
 }
 #menu ul li {
@@ -20,15 +20,15 @@ body {
 #menu ul li a{
     display: inline-block;
     /*visual*/
-    background-color: white;
+    background-color: rgb(156, 38, 38);
     color: #333;
     text-decoration: none;
-    border-bottom: 0px solid #EDEDED
+    border-bottom: 0px solid rgb(156, 38, 38)
 
 }
 
 #menu ul li a:hover{
-    background-color: white;
+    background-color: rgb(156, 38, 38);
     color: black;
     border-bottom:0px solid #000000;
 }
